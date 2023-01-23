@@ -19,7 +19,7 @@ You can adjust the model and the parameters as you prefer.
 Results
 The results of the NER model will be the entities and their labels, these entities can indicate the important information in the articles.
 
-##Additional Resources
+## Additional Resources
 Named Entity Recognition (NER) using spaCy
 Named Entity Recognition with Python
 It's important to note that spacy is a library specialized in NLP tasks like Named Entities Recognition, dependency parsing, POS tagging, and text classification. The pre-trained models for many languages are available on the website and you can fine
