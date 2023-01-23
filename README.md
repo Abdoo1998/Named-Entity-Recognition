@@ -1,4 +1,4 @@
-#Named Entities Recognition (NER)
+# Named Entities Recognition (NER)
 This project demonstrates how to perform Named Entities Recognition (NER) using Python. The project uses the spacy library for training the NER model and matplotlib for visualizing the results.
 
 ## Requirements
